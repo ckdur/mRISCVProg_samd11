@@ -1,0 +1,11 @@
+*.o
+*.log
+*.pdf
+*.elf
+*.old
+*.dat
+*.lss
+*.hex
+*.d
+*.bin
+
